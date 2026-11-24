@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "as_of": "2026-11-15",
+  "chronically_late_suppliers": [
+    "0000100007",
+    "0000100013",
+    "0000100024"
+  ],
+  "partial_shipper": "0000100009",
+  "seasonal_slow_months": [
+    8,
+    12
+  ],
+  "data_quality_errors_injected": false
+}
